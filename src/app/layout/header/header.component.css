@@ -1,0 +1,10 @@
+form {
+    display:flex;
+    margin: auto;
+    align-items: center;
+    width: 600px;
+}
+
+nav {
+    font-size: large;
+}
